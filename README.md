@@ -1,13 +1,16 @@
 
 
 
-# Welcome To Sunmin Kim's Git
+# Welcome To SunMin Kim's Git
+<div align="center">
+	Hello! I'm SunMin Kim
+</div>
+<br><br>
+**About me**
 
-
-
-
-
-<br>
+<br><br>
+<br><br>
+<br><br>
 <div align="center">
 	<img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
