@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo= &logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo= &logoColor=white"/>
-#
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsm0566&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kimsm0566&show_icons=true">
 
