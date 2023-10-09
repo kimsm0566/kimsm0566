@@ -5,7 +5,7 @@
 </div>
 <br><br>
 <h4> 🏫 School  : I am a software major student at Gachon University </h4>
-<h4> 📖 THe Field Of Study  : Be studying the basics hard </h4>
+<h4> 📖 The Field Of Study  : Be studying the basics hard </h4>
 
 
 <br><br>
