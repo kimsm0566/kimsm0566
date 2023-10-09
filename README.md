@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kim's%20Git&fontSize=90&animation=fadeIn)
 
-
-# Welcome To My Git
+<div align="center">
+	<h1>Welcome To My Git</h1>
+</div>
 <br><br>
-<h4> 🏫 School 🏫 : I am a software major student at Gachon University </h4>
+<h4> 🏫 School  : I am a software major student at Gachon University </h4>
+<h4> 📖 THe Field Of Study  : Be studying the basics hard </h4>
+
+
 <br><br>
 <div align="center">
 	<h4>📚 Studying 📚</h4>
