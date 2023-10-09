@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Kim's%20Git&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Kim's%20Git&fontSize=90&animation=fadeIn)
 
 <div align="center">
 	<h1>Welcome To My Git</h1>
