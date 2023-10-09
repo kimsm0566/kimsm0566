@@ -1,17 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kim's%20Git&fontSize=90&animation=fadeIn)
 
 
-
-# Welcome To SunMin Kim's Git
-<div align="center">
-	Hello! I'm SunMin Kim
-</div>
+# Welcome To My Git
 <br><br>
-**About me**
-
-<br><br>
-<br><br>
+<h4> 🏫 School 🏫 : I am a software major student at Gachon University </h4>
 <br><br>
 <div align="center">
+	<h4>📚 Studying 📚</h4>
 	<img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat&logo=javascript&logoColor=white" />
