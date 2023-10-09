@@ -1,6 +1,6 @@
 ### Welcome To My Git
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsm0566&layout=compact"><br><br>
