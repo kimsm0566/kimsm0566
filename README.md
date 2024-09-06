@@ -4,8 +4,8 @@
 	<h1>Welcome To My Git</h1>
 </div>
 <br><br>
-<h4> 🏫 School  : I am a software major student at Gachon University </h4>
-<h4> 📖 The Field Of Study  : Be studying the basics hard </h4>
+<h4> 🏫 School  : Software major student at Gachon University </h4>
+<h4> 📖 Labs  : Undergraduate researcher in the IMES lab at Gachon University  </h4>
 
 
 <br><br>
